@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Where to go in the fall, if you did not have enough summer
 
-You can use the [editor on GitHub](https://github.com/norondo/travel/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Branching](autumn1.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Crimson and gold leaves, blue sky, lakes and canals, the atmosphere imbued with a touch of sadness that swept the crowds of tourists - all this is Europe in autumn. An unforgettable experience is guaranteed!
 
-### Markdown
+## Croatia. Dubrovnik and Plitvice lakes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Branching](autumn2.jpg)
 
-```markdown
-Syntax highlighted code block
+The medieval city of Dubrovnik in Croatia is best visited in the autumn, when there are no summer crowds of tourists, and the Adriatic Sea is still quite warm and suitable for swimming. In Dubrovnik, you should get lost in a labyrinth of narrow streets, hang out in a restaurant with a glass of local wine, visit the fortress of St. Lawrence and Revelin Fortress, climb the cable car to the Srd hill to see more panoramic views of the city and its surroundings. If you are a fan of "Game of Thrones", you will be delighted with a tour of the places of the series.  
 
-# Header 1
-## Header 2
-### Header 3
+If you are lucky enough to be in Croatia in autumn, be sure to go to the Plitvice Lakes National Park. You'll see a real explosion of flaming leaves among magnificent azure waterfalls and lakes. If you have the time, stay here longer and stay one day at a hotel to explore this natural masterpiece in the early morning, all alone or just the two of you, as you like.
 
-- Bulleted
-- List
+## Austria. Vienna
 
-1. Numbered
-2. List
+![Branching](autumn3.jpg)
 
-**Bold** and _Italic_ and `Code` text
+Sophisticated nature will surely appreciate Vienna - in autumn it looks like a chapter from a magical fairy tale. This is a time of peace and quiet. Summer concerts in the open air are over, and the streets are just preparing for the madness of the Christmas fair. This is an ideal moment to admire Stefanplatz without the crowd. Climb the tower of St. Stephen's Cathedral to see Vienna in all its autumn glory. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/norondo/travel/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And when you go downstairs, wrap up on the adjacent street and look into Mozart's house. Admire the gardens of Schoenbrunn Palace, where the carpet of autumn leaves will create the perfect background for the photo shoot. Then head to the Belvedere (Gustav Klimt's Kiss House) to warm yourself up with stunning paintings of ceilings, works of art and interiors, and then invite your partner for a waltz tour in the palace garden. Finish your day with the famous Wiener schnitzel and local beer in a cozy traditional tavern. Or, dressed in ashes, visit one of the city's iconic places - Vienna Opera. Definitely, this city can't be missed during the foliage!
